@@ -1,2 +1,5 @@
 # My Love Story
-Site: https://kevinkibetportfolio.vercel.app/
+My Project Site: https://valentine-lovat.vercel.app/
+My personal portfolio Site: https://kevinkibetportfolio.vercel.app/
+Contact me Via whatsapp: +254 724 884 970
+
